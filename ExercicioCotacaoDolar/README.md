@@ -1,4 +1,5 @@
-Sistema de Conversão de Real para Dólar com IOF
+#Sistema de Conversão de Dolar para Real com IOF
+
 Este repositório contém um pequeno sistema desenvolvido em Java para converter valores de Dólar (USD) para Real (BRL), incluindo o cálculo do Imposto sobre Operações Financeiras (IOF) de 6% sobre o valor a ser pago em Reais pela quantidade de Dólares solicitada.
 
 Funcionalidade
